@@ -1,2 +1,2 @@
-# titanic2
+# Exploratory Analysis with Titanic Dataset
 readme file
